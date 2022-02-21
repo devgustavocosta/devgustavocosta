@@ -1,5 +1,8 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
+- Hoje trabalho com Front-End 🖥
+- Atualmente estou cursando Ciência da Computação 👨🏾‍💻
+
 <div>
 <a href="https://github.com/devgustavocosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devgustavocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
