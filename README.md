@@ -1,7 +1,7 @@
 ## Olá! Bem-vindo(a) ao meu perfil!
 
-- Hoje trabalho com Front-End 🖥
-- Atualmente estou cursando Ciência da Computação 👨🏾‍💻
+- Hoje trabalho como Estagiário de Desenvolvimento 🖥
+- Atualmente estou cursando SI 👨🏾‍💻
 
 <div>
 <a href="https://github.com/devgustavocosta">
